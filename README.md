@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📘 Studying Computer Engineering<br>🤝 Open to collaborating on exciting web dev projects<br>🚀 Full Stack Web Developer in the making<br>⚡ Background in media production, bringing creativity to my code</p>
+<p align="left">📘 Studying Computer Engineering<br>🤝 Open to collaborating on exciting projects<br>🚀 Full Stack Developer in the making<br>⚡ Background in media production, bringing creativity to my code</p>
 
 ###
 
