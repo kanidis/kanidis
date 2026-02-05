@@ -1,4 +1,4 @@
-<h1 align="left">Hello World! I am Jordan, a web developer from Greece👋:</h1>
+<h1 align="left">Hello World! I am Jordan, a developer from Greece👋:</h1>
 
 ###
 
